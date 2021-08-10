@@ -17,8 +17,8 @@ import cv2
 #%% App 
 
 # Load model. 
-numb_recg_model = load_model("model1.h5")
-
+#numb_recg_model = load_model("model1.h5")
+numb_recg_model = load_model("https://github.com/Fred6283/Handwriting-Number-Recognizer/blob/163e854331a62994ee240c84a430abdc39163d73/model1.h5")
 SIZE = 192
 
 # Create a canvas component
