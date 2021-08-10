@@ -1,5 +1,0 @@
-streamlit==0.86.0
-streamlit-drawable-canvas==0.8.0
-tensorflow==2.5.0
-numpy==1.21.1
-opencv-python==4.5.3.56
